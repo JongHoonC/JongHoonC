@@ -4,5 +4,5 @@
 
   ![JavaScript](https://img.shields.io/badge/JavaScript-FFFF00.svg?&style=for-the-badge&logo=JavaScript&logoColor=000000)
   ![REACT](https://img.shields.io/badge/React-3178C6.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
-  ![REACT-NATIVE](https://img.shields.io/badge/REACT-NATIVE-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=000000)
+  ![REACTNATIVE](https://img.shields.io/badge/REACTNATIVE-3178C6.svg?&style=for-the-badge&logo=TypeScript&logoColor=000000)
 </div>
