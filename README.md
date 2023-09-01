@@ -6,5 +6,5 @@
   ![REACT](https://img.shields.io/badge/React-3178C6.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
 ![Reactnative](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
 <br/>
-![HTML5](https://img.shields.io/badge/HTML5-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
+![HTML5](https://img.shields.io/badge/HTML5-61DAFB.svg?&style=for-the-badge&logo=HTML5&logoColor=FFFFFF)
 </div>
