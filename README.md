@@ -1,6 +1,8 @@
+<div align=center>
+
 ### Hi there 👋
 
-<div align=center>
+
 
 ![Reactnative](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
     <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white"> 
