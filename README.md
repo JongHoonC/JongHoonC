@@ -3,7 +3,7 @@
 #### Hi there. 👋
 
 ### I'm Frontend Dev JongHoon :D
-
+<div>
 ## 💡I use these💡
 
 ![Reactnative](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
@@ -14,6 +14,7 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    </div>
     <br/>
         <br/>
             <br/>
