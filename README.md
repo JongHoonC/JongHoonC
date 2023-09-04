@@ -2,9 +2,9 @@
 
 #### Hi there. 👋
 
-## I'm Frontend Dev JongHoon :D
+### I'm Frontend Dev JongHoon :D
 
-
+## 💡I use these💡
 
 ![Reactnative](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
     <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white"> 
@@ -17,6 +17,6 @@
     <br/>
         <br/>
             <br/>
-            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongHoonC%2Fhit-counter&count_bg=%23E7CFFB&title_bg=%23A4A4A4&icon=&icon_color=%23292525&title=hits&edge_flat=false"/></a>
+<a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongHoonC%2Fhit-counter&count_bg=%237E9AEB&title_bg=%23A4A4A4&icon=&icon_color=%23292525&title=hits&edge_flat=false"/></a>
 </div>
 
