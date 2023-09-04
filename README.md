@@ -1,6 +1,6 @@
 <div align=center>
 
-#### Hi there. 👋
+# Hi there. 👋
 
 ### I'm Frontend Dev JongHoon :D
 
