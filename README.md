@@ -14,5 +14,9 @@
   <img src="https://img.shields.io/badge/javascript-F7DF1E?style=for-the-badge&logo=javascript&logoColor=black"> 
   <br/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
+    <br/>
+        <br/>
+            <br/>
+            <a href="https://hits.seeyoufarm.com"><img src="https://hits.seeyoufarm.com/api/count/incr/badge.svg?url=https%3A%2F%2Fgithub.com%2FJongHoonC%2Fhit-counter&count_bg=%23E7CFFB&title_bg=%23A4A4A4&icon=&icon_color=%23292525&title=hits&edge_flat=false"/></a>
 </div>
 
