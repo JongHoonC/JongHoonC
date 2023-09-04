@@ -2,7 +2,7 @@
 
 #### Hi there. 👋
 
-## I'm Frontend Dev JongHoon. 👋
+## I'm Frontend Dev JongHoon. :D
 
 
 
