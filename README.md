@@ -4,8 +4,7 @@
 
 ### I'm Frontend Dev JongHoon :D
 
-
-### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me... 
+### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me💡
 ![Reactnative](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
     <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white"> 
 <br/>
