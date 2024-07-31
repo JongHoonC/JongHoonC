@@ -7,6 +7,8 @@
 ### <img src="https://media.giphy.com/media/VgCDAzcKvsR6OM0uWg/giphy.gif" width="50"> A little more about me💡
 ![Reactnative](https://img.shields.io/badge/Reactnative-61DAFB.svg?&style=for-the-badge&logo=React&logoColor=FFFFFF)
     <img src="https://img.shields.io/badge/react-3776AB?style=for-the-badge&logo=react&logoColor=white"> 
+  <img src="https://shields.io/badge/next-black?logo=next.js&style=for-the-badge">
+    
 <br/>
    <img src="https://img.shields.io/badge/html5-E34F26?style=for-the-badge&logo=html5&logoColor=white"> 
   <img src="https://img.shields.io/badge/css-1572B6?style=for-the-badge&logo=css3&logoColor=white"> 
