@@ -19,7 +19,6 @@
   <img src="https://shields.io/badge/firebase-yellow?logo=firebase&style=for-the-badge">
   <br/>
     <img src="https://img.shields.io/badge/recoil-3578e5?style=for-the-badge&logo=recoil&logoColor=white">
-      <img src="https://img.shields.io/badge/zustand-3578e5?style=for-the-badge&logo=zustand&logoColor=white">
   <br/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <br/>
