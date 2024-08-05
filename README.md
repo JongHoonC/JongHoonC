@@ -18,6 +18,8 @@
   <img src="https://shields.io/badge/supabase-black?logo=supabase&style=for-the-badge">
   <img src="https://shields.io/badge/firebase-yellow?logo=firebase&style=for-the-badge">
   <br/>
+    <img src="https://img.shields.io/badge/recoil-3776AB?style=for-the-badge&logo=recoil&logoColor=white">
+  <br/>
     <img src="https://img.shields.io/badge/github-181717?style=for-the-badge&logo=github&logoColor=white">
     <br/>
         <br/>
