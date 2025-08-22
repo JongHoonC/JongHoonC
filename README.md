@@ -39,10 +39,6 @@
 ## 📊 GitHub 통계
 
 <div align="center">
-  <img src="https://github-readme-stats.vercel.app/api?username=JongHoonC&show_icons=true&theme=radical" alt="GitHub Stats" />
-</div>
-
-<div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=JongHoonC&layout=compact&theme=radical" alt="Top Languages" />
 </div>
 
