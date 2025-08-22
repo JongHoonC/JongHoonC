@@ -48,7 +48,6 @@
 
 ---
 
-## 🎯 현재 작업 중인 프로젝트
 
 - 🔭 **React**와 **Next.js**로 모던 웹 애플리케이션 개발
 - 🌱 가벼운 상태 관리를 위한 **Zustand** 탐구
@@ -62,17 +61,6 @@
 - 🚀 새로운 기술과 프레임워크 학습에 항상 열정적입니다
 - 🌟 깔끔하고 유지보수 가능한 코드 작성에 열정을 가지고 있습니다
 - 🤝 흥미로운 프로젝트에서의 협업을 환영합니다
-
----
-
-
-<div align="center">
-
-[![GitHub](https://img.shields.io/badge/GitHub-100000?style=for-the-badge&logo=github&logoColor=white)](https://github.com/JongHoonC)
-[![LinkedIn](https://img.shields.io/badge/LinkedIn-0077B5?style=for-the-badge&logo=linkedin&logoColor=white)](https://linkedin.com/in/jonghoonc)
-[![Email](https://img.shields.io/badge/Email-D14836?style=for-the-badge&logo=gmail&logoColor=white)](mailto:your.email@example.com)
-
-</div>
 
 ---
 
