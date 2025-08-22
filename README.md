@@ -81,7 +81,7 @@
 </div>
 
 <div align="center">
-  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=프론트엔드+개발자;React+%26+React+Native+전문가;항상+새로운+것을+배우고+있습니다!" alt="Typing SVG" />
+  <img src="https://readme-typing-svg.herokuapp.com?font=Fira+Code&pause=1000&color=36BCF7&center=true&vCenter=true&width=435&lines=프론트엔드+개발자;항상+새로운+것을+배우고+있습니다!" alt="Typing SVG" />
 </div>
 
 </div>
